@@ -1,0 +1,17 @@
+# Machine-specific / sensitive
+local.properties
+*.keystore
+*.jks
+
+# Build output
+build/
+app/build/
+.gradle/
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Claude Code local settings
+.claude/
